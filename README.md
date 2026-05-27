@@ -232,6 +232,12 @@ delta. Reports print cleanly when you hit **↥ Print / PDF**.
 These are deliberate scope cuts — getting the report quality right beats
 half-integrated channel adapters.
 
+## Screenshots
+
+<img width="1919" height="911" alt="111" src="https://github.com/user-attachments/assets/fc42a25a-d5f6-4c9b-a4a4-797d5351caac" />
+
+<img width="1905" height="912" alt="222" src="https://github.com/user-attachments/assets/7936590e-dc76-40cb-acdc-ef8488e92fbc" />
+
 ## License
 
 Tally is **dual-licensed**:
