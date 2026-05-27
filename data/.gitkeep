@@ -1,0 +1,2 @@
+# Tally stores its SQLite database, encryption key, and uploaded CSV
+# data here. Everything in data/ except this file is gitignored.

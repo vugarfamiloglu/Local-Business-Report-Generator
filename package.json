@@ -1,0 +1,33 @@
+{
+  "name": "tally",
+  "version": "0.1.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "description": "Local-business monthly report generator. Drop a CSV from Instagram DMs, WhatsApp exports, PoS, or Google Sheets — get a one-page natural-language report: KPIs with deltas, top customer-question categories, best-day patterns, recommendations.",
+  "scripts": {
+    "dev":   "next dev -p 5757",
+    "build": "next build",
+    "start": "next start -p 5757",
+    "lint":  "next lint"
+  },
+  "dependencies": {
+    "next":             "15.0.3",
+    "react":            "19.0.0-rc-66855b96-20241106",
+    "react-dom":        "19.0.0-rc-66855b96-20241106",
+    "better-sqlite3":   "^11.3.0",
+    "bcryptjs":         "^2.4.3"
+  },
+  "devDependencies": {
+    "typescript":            "^5.6.3",
+    "@types/node":           "^22.9.0",
+    "@types/react":          "^18.3.12",
+    "@types/react-dom":      "^18.3.1",
+    "@types/better-sqlite3": "^7.6.11",
+    "@types/bcryptjs":       "^2.4.6",
+    "tailwindcss":           "^3.4.14",
+    "postcss":               "^8.4.49",
+    "autoprefixer":          "^10.4.20",
+    "eslint":                "^9.14.0",
+    "eslint-config-next":    "15.0.3"
+  }
+}
